@@ -16,7 +16,7 @@ const Calculator = () => {
     <div>
       {/* ---------------------------------First section -------------------- */}
       <h1>BMI CALCULATOR</h1>
-      <img src='https://assets.ccbp.in/frontend/hooks/bmi-levels-img.png' width="1700px"></img>
+      <img src='https://assets.ccbp.in/frontend/hooks/bmi-levels-img.png' width="1700px" className='imgElement'></img>
 
   {/* ------------------------------------------Second Section ------------------- */}
     <div className='main-card-container'>

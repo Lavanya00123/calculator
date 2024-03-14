@@ -97,3 +97,20 @@ p1{
 
 /* --------------------Media Queries-------------------- */
 
+/* @media screen and (max-width:600px){
+    h1{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:600px){
+    .imgElement{
+        height: 60px;
+        background-size: cover;
+    }
+}
+@media screen and (min-width:720px){
+    .imgElement{
+        height: 70px;
+        background-size: cover;
+    }
+} */
